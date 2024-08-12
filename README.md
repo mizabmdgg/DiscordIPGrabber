@@ -5,7 +5,7 @@
 
 **pip install scapy**
 
-**pip intsall psutil**
+**pip install psutil**
 
 
 ---
